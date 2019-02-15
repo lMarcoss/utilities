@@ -7,7 +7,6 @@ import java.util.Date;
 
 /**
  * @author Marcos Santiago Leonardo
- * Meltsan Solutions
  * Description: clase estática para validar, convertir y sumar fechas
  * Date: 1/30/19
  */
